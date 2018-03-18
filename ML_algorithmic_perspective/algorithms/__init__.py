@@ -1,3 +1,2 @@
 __all__ = ["decomposition",
-		   "neural_network",
-		   "rbf"]
+		   "neural_network"]
