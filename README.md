@@ -3,4 +3,4 @@
 
 #### Folders  
 - `ML_algorithmic_perspective` - implementation of several ML algorithms from the scratch in python
-- 
+- `SNA` - social network analysis
